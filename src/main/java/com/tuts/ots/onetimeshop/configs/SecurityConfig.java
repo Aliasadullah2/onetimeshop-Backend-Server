@@ -85,6 +85,7 @@ import org.springframework.web.servlet.config.annotation.EnableWebMvc;
 public class SecurityConfig {
         public  static final String[] PUBLIC_URLS={
           "/api/v1/auth/**",
+                "https://onetimeshop-1ydyh7yeh-my-team-eabfa12e.vercel.app/",
 
 
         };
